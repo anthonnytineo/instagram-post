@@ -4,3 +4,6 @@ body {
 main {
   background-color: rgb(255, 255, 249);
 }
+#icons {
+  font-size: 40px;
+}
